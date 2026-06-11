@@ -1,43 +1,64 @@
 # Davi Capitano
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Python & SQL**
+**Estudante de ADS | Engenharia de Dados | Python • SQL • PostgreSQL**
 
-Apaixonado por resolver problemas complexos através de tecnologia e comunicação eficiente. Atualmente, foco minha trajetória no desenvolvimento de software robusto, com especial         interesse em arquitetura de sistemas e modelagem de bancos de dados relacionais.\
-Minha experiência prática envolve a criação de soluções ponta a ponta, desde a estruturação de back-ends escaláveis até a entrega de interfaces desktop modernas. Tenho buscado aplicar   conceitos de Engenharia de Software em todos os meus projetos, como:
-- Arquitetura em Camadas (Layered Architecture): Segregação de responsabilidades para garantir manutenção e escalabilidade.
-- Banco de Dados: Modelagem SQL complexa com SQLite3, aplicando integridade referencial, queries parametrizadas e o padrão DAO/Repository.
-- Qualidade de Código: Uso rigoroso de Tipagem Estática (Type Hinting) e padrões de projeto como Template Method.
-- Processamento de Dados: Criação de interpretadores customizados utilizando Expressões Regulares (Regex).
+Atualmente direciono minha formação para Engenharia de Dados, desenvolvendo projetos práticos para entender como dados são coletados, armazenados, transformados e convertidos em informação útil para tomada de decisão.
 
-Acredito que a programação é uma ferramenta para gerar valor real para o cliente. Por isso, prezo por uma comunicação sublime com colegas e stakeholders, aliando o rigor técnico à   colaboração em times de alta performance.
+Meu foco está na construção de uma base sólida em Engenharia de Dados.
 
-[Dê uma olhada no meu **Currículo**](https://github.com/user-attachments/files/24532425/davi_cv_01_26.pdf)
+Acredito que a melhor forma de aprender tecnologia é construindo. Por isso, procuro desenvolver projetos completos que me permitam explorar todo o ciclo dos dados, desde a ingestão e persistência até a análise.
 
-## Skills
-<div align="center">
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-</div>
+Também utilizo ferramentas de IA como apoio ao desenvolvimento e aprendizado, sempre priorizando a compreensão técnica por trás de cada implementação.
 
-<br>
-<br>
+---
 
-<p align="left">
-  <a href="mailto:tecapcerta@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/davi-capitano-97a080250/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5521968893455?text=VocêFoiEscolhido!!!" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/capturacerta/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+## Atualmente estudando
+
+* Engenharia de Dados
+* SQL avançado
+* PostgreSQL
+* Processos ETL
+* Modelagem Relacional
+* Python para Dados
+* Boas práticas de desenvolvimento
+
+---
+
+## Tecnologias
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </p>
+
+---
+
+## Projetos em destaque
+
+### [Simple E-commerce Events Simulator](https://github.com/CAPTURACERTA/simple-e-commerce-events-simulator-etl-practice)
+
+Projeto desenvolvido para praticar fundamentos de Engenharia de Dados utilizando Python, FastAPI e PostgreSQL.
+
+Principais conceitos explorados:
+
+* Modelagem relacional
+* Geração de dados sintéticos
+* Pipeline ETL local
+* Consultas analíticas em SQL
+* APIs REST
+* Persistência de dados
+* Métricas de negócio
+
+---
+
+## Contato
+
+* LinkedIn: [www.linkedin.com/in/davi-capitano-97a080250](http://www.linkedin.com/in/davi-capitano-97a080250)
+* E-mail: [tecapcerta@gmail.com](mailto:daviccapitano@gmail.com)
