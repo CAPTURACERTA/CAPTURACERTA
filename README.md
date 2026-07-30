@@ -1,68 +1,133 @@
 # Davi Capitano
 
-**Estudante de ADS | Engenharia de Dados | Python • SQL • PostgreSQL**
+**Estudante de Análise e Desenvolvimento de Sistemas**  
+**Focado em Engenharia de Dados | Python • SQL • Cloud • ETL**
 
-Atualmente direciono minha formação para Engenharia de Dados, desenvolvendo projetos práticos para entender como dados são coletados, armazenados, transformados e convertidos em informação útil para tomada de decisão.
+Sou estudante de ADS com foco em Engenharia de Dados e desenvolvo projetos práticos para compreender todo o ciclo de vida dos dados, desde a ingestão até a geração de informações para tomada de decisão.
 
-Meu foco está na construção de uma base sólida em Engenharia de Dados.
+Tenho experiência construindo pipelines ETL, modelagem relacional e dimensional, processamento assíncrono, bancos SQL e NoSQL e soluções em nuvem utilizando Google Cloud Platform.
 
-Acredito que a melhor forma de aprender tecnologia é construindo. Por isso, procuro desenvolver projetos completos que me permitam explorar todo o ciclo dos dados, desde a ingestão e persistência até a análise.
-
-Também utilizo ferramentas de IA como apoio ao desenvolvimento e aprendizado, sempre priorizando a compreensão técnica por trás de cada implementação.
-
----
-
-## Atualmente estudando
-
-* Engenharia de Dados
-* SQL avançado
-* PostgreSQL
-* Processos ETL
-* Modelagem Relacional
-* Python para Dados
-* Boas práticas de desenvolvimento
+Acredito que a melhor forma de aprender tecnologia é construindo projetos que simulem problemas reais, aplicando boas práticas de arquitetura, organização de código, testes e versionamento.
 
 ---
 
-## Tecnologias
+# Atualmente estudando
+
+- Engenharia de Dados
+- Data Warehousing
+- Data Lakes
+- Google Cloud Platform
+- BigQuery
+- Processamento de Dados
+- Arquiteturas de Dados
+- Boas práticas de Engenharia de Software
+
+---
+
+# Tecnologias
 
 <p align="center">
 
+### Linguagens
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Bancos de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
+### Cloud
+
+![Google Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Desenvolvimento
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
 
 ---
 
-## Projetos em destaque
+# Projetos em destaque
 
-### [Simple E-commerce Events Simulator](https://github.com/CAPTURACERTA/simple-e-commerce-events-simulator-etl-practice)
+## [🚀 Click Stream Pipeline](https://github.com/CAPTURACERTA/click-stream-pipeline)
 
-Projeto desenvolvido para praticar fundamentos de Engenharia de Dados utilizando Python, FastAPI e PostgreSQL.
+Pipeline orientado a eventos para simular processamento de clickstream em um ambiente de e-commerce.
 
-Principais conceitos explorados:
+**Tecnologias**
 
-* Modelagem relacional
-* Geração de dados sintéticos
-* Pipeline ETL local
-* Consultas analíticas em SQL
-* APIs REST
-* Persistência de dados
-* Métricas de negócio
+`Python` • `AsyncIO` • `MongoDB` • `Redis` • `Pytest`
+
+**Principais conceitos**
+
+- Arquitetura orientada a eventos
+- Publish/Subscribe
+- Processamento assíncrono
+- Validação de eventos
+- Métricas em tempo real
+- Logging
+- Testes unitários
 
 ---
 
-## Contato
+## [🛒 Simple E-commerce Events Simulator](https://github.com/CAPTURACERTA/simple-e-commerce-events-simulator-etl-practice)
 
-* LinkedIn: [www.linkedin.com/in/davi-capitano-97a080250](http://www.linkedin.com/in/davi-capitano-97a080250)
-* E-mail: [tecapcerta@gmail.com](mailto:daviccapitano@gmail.com)
+Pipeline ETL para geração, persistência e análise de dados de e-commerce.
+
+**Tecnologias**
+
+`Python` • `FastAPI` • `PostgreSQL` • `SQL`
+
+**Principais conceitos**
+
+- Pipeline ETL
+- Modelagem Relacional
+- APIs REST
+- Consultas Analíticas
+- Métricas de Negócio
+- Pydantic
+
+Repositório:
+
+https://github.com/CAPTURACERTA/simple-e-commerce-events-simulator-etl-practice
+
+---
+
+## [☁️ Cloud E-commerce Pipeline](https://github.com/CAPTURACERTA/cloud-e-commerce)
+
+Projeto para prática de ingestão e transformação de dados utilizando serviços da Google Cloud Platform.
+
+**Tecnologias**
+
+`Python` • `Google Cloud Storage` • `BigQuery`
+
+**Principais conceitos**
+
+- Data Warehouse
+- Modelagem Dimensional
+- Tabelas Fato e Dimensão
+- SQL Analítico
+- Cloud ETL
+
+---
+
+# Objetivo
+
+Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com soluções de dados, desenvolver pipelines escaláveis e evoluir em tecnologias de processamento distribuído e cloud.
+
+---
+
+# Contato
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/davi-capitano-97a080250/
+
+- 📧 Email  
+  daviccapitano@gmail.com
