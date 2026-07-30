@@ -131,3 +131,8 @@ Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com so
 
 - 📧 Email  
   daviccapitano@gmail.com
+
+---
+
+# Currículo
+[cv_2026_0_ptbr.pdf](https://github.com/user-attachments/files/30552496/cv_2026_0_ptbr.pdf)
