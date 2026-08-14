@@ -1,11 +1,11 @@
 # Davi Capitano
 
 **Estudante de Análise e Desenvolvimento de Sistemas**  
-**Focado em Engenharia de Dados | Python • SQL • Cloud • ETL**
+**Focado em Engenharia de Dados | Python • SQL • Cloud • ETL/ELT**
 
-Sou estudante de ADS com foco em Engenharia de Dados e desenvolvo projetos práticos para compreender todo o ciclo de vida dos dados, desde a ingestão até a geração de informações para tomada de decisão.
+Sou estudante de ADS com foco em Engenharia de Dados e desenvolvo projetos práticos para compreender todo o ciclo de vida dos dados, desde a ingestão até a disponibilização de informações para análise e tomada de decisão.
 
-Tenho experiência construindo pipelines ETL, modelagem relacional e dimensional, processamento assíncrono, bancos SQL e NoSQL e soluções em nuvem utilizando Google Cloud Platform.
+Tenho experiência prática em construção de pipelines ETL/ELT, modelagem relacional e dimensional, processamento assíncrono, bancos SQL e NoSQL e soluções em nuvem utilizando Google Cloud Platform.
 
 Acredito que a melhor forma de aprender tecnologia é construindo projetos que simulem problemas reais, aplicando boas práticas de arquitetura, organização de código, testes e versionamento.
 
@@ -18,6 +18,8 @@ Acredito que a melhor forma de aprender tecnologia é construindo projetos que s
 - Data Lakes
 - Google Cloud Platform
 - BigQuery
+- Apache Airflow
+- dbt
 - Processamento de Dados
 - Arquiteturas de Dados
 - Boas práticas de Engenharia de Software
@@ -33,15 +35,16 @@ Acredito que a melhor forma de aprender tecnologia é construindo projetos que s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Bancos de Dados
+### Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Cloud
 
-![Google Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Desenvolvimento
@@ -56,6 +59,31 @@ Acredito que a melhor forma de aprender tecnologia é construindo projetos que s
 ---
 
 # Projetos em destaque
+
+## [☁️ E-commerce Analytics Pipeline — BigQuery + dbt](https://github.com/CAPTURACERTA/bq-dbt-learning)
+
+Pipeline analítico de e-commerce construído para praticar transformação de dados em um Data Warehouse utilizando BigQuery e dbt Core.
+
+**Tecnologias**
+
+`Python` • `SQL` • `dbt Core` • `BigQuery` • `dbt-utils` • `uv`
+
+**Principais conceitos**
+
+- Arquitetura em camadas: Staging → Intermediate → Marts
+- ETL/ELT
+- Data Warehouse
+- Modelagem Dimensional
+- Star Schema
+- Tabelas Fato e Dimensão
+- Definição de grão
+- `source()` e `ref()`
+- Testes de qualidade e integridade referencial
+- Surrogate Keys
+- Dimensão calendário
+- Lineage e documentação com dbt
+
+---
 
 ## [🚀 Click Stream Pipeline](https://github.com/CAPTURACERTA/click-stream-pipeline)
 
@@ -94,33 +122,11 @@ Pipeline ETL para geração, persistência e análise de dados de e-commerce.
 - Métricas de Negócio
 - Pydantic
 
-Repositório:
-
-https://github.com/CAPTURACERTA/simple-e-commerce-events-simulator-etl-practice
-
----
-
-## [☁️ Cloud E-commerce Pipeline](https://github.com/CAPTURACERTA/cloud-e-commerce)
-
-Projeto para prática de ingestão e transformação de dados utilizando serviços da Google Cloud Platform.
-
-**Tecnologias**
-
-`Python` • `Google Cloud Storage` • `BigQuery`
-
-**Principais conceitos**
-
-- Data Warehouse
-- Modelagem Dimensional
-- Tabelas Fato e Dimensão
-- SQL Analítico
-- Cloud ETL
-
 ---
 
 # Objetivo
 
-Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com soluções de dados, desenvolver pipelines escaláveis e evoluir em tecnologias de processamento distribuído e cloud.
+Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com soluções de dados, desenvolver pipelines e evoluir em tecnologias de processamento distribuído, Data Warehousing e Cloud.
 
 ---
 
@@ -132,7 +138,10 @@ Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com so
 - 📧 Email  
   daviccapitano@gmail.com
 
+- 📞 Celular
+  (21) 96889-3455
 ---
 
 # Currículo
+
 [cv_2026_0_ptbr.pdf](https://github.com/user-attachments/files/30552496/cv_2026_0_ptbr.pdf)
