@@ -138,7 +138,7 @@ Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com so
 - 📧 Email  
   daviccapitano@gmail.com
 
-- 📞 Celular
+- 📞 Celular\
   (21) 96889-3455
 ---
 
