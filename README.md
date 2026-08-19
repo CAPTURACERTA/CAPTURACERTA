@@ -144,4 +144,6 @@ Busco uma oportunidade de estágio em Engenharia de Dados para contribuir com so
 
 # Currículo
 
-[cv_2026_0_ptbr.pdf](https://github.com/user-attachments/files/30552496/cv_2026_0_ptbr.pdf)
+🇧🇷 [cv_2026_1_ptbr.pdf](https://github.com/user-attachments/files/31229413/cv_2026_1_ptbr.pdf)\
+🇺🇸 [cv_2026_1_eng.pdf](https://github.com/user-attachments/files/31229410/cv_2026_1_eng.pdf)
+
