@@ -19,6 +19,7 @@ Acredito que a melhor forma de aprender tecnologia é construindo projetos que s
 - Google Cloud Platform
 - BigQuery
 - Apache Airflow
+- Docker
 - dbt
 - Processamento de Dados
 - Arquiteturas de Dados
